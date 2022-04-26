@@ -184,15 +184,15 @@ header {
   top: 10px;
 }
 
-/* .image-2 {
-    top: 50px;
-   width: 50px;
-   height: 50px;
-    height: auto;
-    top: 30px;
-    display: flex;
-    justify-content: flex-start;
-} */
+.card-image {
+  width: 10px;
+  height: auto;
+  top: 10px;
+  display: flex;
+  justify-content: center;
+  margin: 100px;
+  padding: 20px 0 30px;
+}
 
 #intro-3 {
   background-color: #1abc9c;
@@ -203,14 +203,6 @@ header {
 #intro-3 .wrapper-3 {
   display: flex;
   justify-content: center;
-}
-
-#intro-3 .wrapper-3 .image-3 img {
-  width: 100%;
-}
-
-.image-3 {
-  padding: 75px 0 30px;
 }
 
 .title-3 {
